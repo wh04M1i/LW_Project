@@ -1,0 +1,25 @@
+# requirements.txt
+
+# Twilio for sending SMS
+twilio==6.61.0
+
+# Geopy for geolocation services
+geopy==2.2.0
+
+# BeautifulSoup for web scraping Wikipedia
+beautifulsoup4==4.10.0
+
+# pyttsx3 for text-to-speech functionality
+pyttsx3==2.90
+
+# Twython for Twitter API interaction
+twython==3.9.1
+
+# Selenium for web automation (WhatsApp functionality)
+selenium==4.1.0
+
+# Pygame for audio and video playback
+pygame==2.0.2
+
+# Requests for making HTTP requests
+requests==2.26.0
